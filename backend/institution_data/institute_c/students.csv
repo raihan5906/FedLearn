@@ -1,0 +1,121 @@
+student_id,section,semester,subject,marks,cgpa,attendance_percent,learning_approach,teaching_approach,study_hours_per_day,class_participation_level_1_to_5,assignment_completion_percent,assessment_type,performance_level
+INSTC2026001,A,5,Mathematics,61.39,6.24,80.59,Kinesthetic,Flipped Classroom,2.71,4,52.96,Internal + Semester,Medium
+INSTC2026001,A,3,Data Structures,60.71,6.24,80.59,Kinesthetic,Flipped Classroom,2.71,4,52.96,Internal + Semester,Medium
+INSTC2026001,A,3,Database Management,62.11,6.24,80.59,Kinesthetic,Flipped Classroom,2.71,4,52.96,Internal + Semester,Medium
+INSTC2026001,A,4,Computer Networks,50.82,6.24,80.59,Kinesthetic,Flipped Classroom,2.71,4,52.96,Internal + Semester,Medium
+INSTC2026002,A,3,Mathematics,60.58,6.93,78.57,Kinesthetic,Demonstration,0.59,4,63.26,Internal + Semester,Medium
+INSTC2026002,A,5,Data Structures,61.54,6.93,78.57,Kinesthetic,Demonstration,0.59,4,63.26,Internal + Semester,Medium
+INSTC2026002,A,5,Database Management,59.63,6.93,78.57,Kinesthetic,Demonstration,0.59,4,63.26,Internal + Semester,Medium
+INSTC2026002,A,4,Computer Networks,59.24,6.93,78.57,Kinesthetic,Demonstration,0.59,4,63.26,Internal + Semester,Medium
+INSTC2026003,A,4,Mathematics,72.73,7.43,79.21,Visual,Lecture,2.98,3,75.6,Internal + Semester,Medium
+INSTC2026003,A,5,Data Structures,55.12,7.43,79.21,Visual,Lecture,2.98,3,75.6,Internal + Semester,Medium
+INSTC2026003,A,4,Database Management,76.77,7.43,79.21,Visual,Lecture,2.98,3,75.6,Internal + Semester,High
+INSTC2026003,A,3,Computer Networks,72.57,7.43,79.21,Visual,Lecture,2.98,3,75.6,Internal + Semester,Medium
+INSTC2026004,A,3,Mathematics,68.81,7.01,100.0,Auditory,Demonstration,4.16,2,71.32,Internal + Semester,Medium
+INSTC2026004,A,4,Data Structures,57.33,7.01,100.0,Auditory,Demonstration,4.16,2,71.32,Internal + Semester,Medium
+INSTC2026004,A,5,Database Management,70.33,7.01,100.0,Auditory,Demonstration,4.16,2,71.32,Internal + Semester,Medium
+INSTC2026004,A,5,Computer Networks,68.44,7.01,100.0,Auditory,Demonstration,4.16,2,71.32,Internal + Semester,Medium
+INSTC2026005,A,5,Mathematics,69.63,7.62,64.82,Kinesthetic,Lecture,2.61,2,65.19,Internal + Semester,Medium
+INSTC2026005,A,4,Data Structures,56.41,7.62,64.82,Kinesthetic,Lecture,2.61,2,65.19,Internal + Semester,Medium
+INSTC2026005,A,5,Database Management,71.91,7.62,64.82,Kinesthetic,Lecture,2.61,2,65.19,Internal + Semester,Medium
+INSTC2026005,A,5,Computer Networks,58.59,7.62,64.82,Kinesthetic,Lecture,2.61,2,65.19,Internal + Semester,Medium
+INSTC2026006,A,3,Mathematics,66.17,7.03,66.64,Reading/Writing,Lecture,3.48,3,63.39,Internal + Semester,Medium
+INSTC2026006,A,5,Data Structures,63.78,7.03,66.64,Reading/Writing,Lecture,3.48,3,63.39,Internal + Semester,Medium
+INSTC2026006,A,5,Database Management,64.21,7.03,66.64,Reading/Writing,Lecture,3.48,3,63.39,Internal + Semester,Medium
+INSTC2026006,A,4,Computer Networks,60.45,7.03,66.64,Reading/Writing,Lecture,3.48,3,63.39,Internal + Semester,Medium
+INSTC2026007,A,4,Mathematics,59.8,7.78,63.0,Auditory,Lecture,2.77,3,65.83,Internal + Semester,Medium
+INSTC2026007,A,5,Data Structures,66.24,7.78,63.0,Auditory,Lecture,2.77,3,65.83,Internal + Semester,Medium
+INSTC2026007,A,4,Database Management,62.5,7.78,63.0,Auditory,Lecture,2.77,3,65.83,Internal + Semester,Medium
+INSTC2026007,A,3,Computer Networks,72.4,7.78,63.0,Auditory,Lecture,2.77,3,65.83,Internal + Semester,Medium
+INSTC2026008,A,4,Mathematics,57.48,6.47,75.77,Visual,Project Based,1.4,3,73.3,Internal + Semester,Medium
+INSTC2026008,A,4,Data Structures,66.98,6.47,75.77,Visual,Project Based,1.4,3,73.3,Internal + Semester,Medium
+INSTC2026008,A,3,Database Management,59.45,6.47,75.77,Visual,Project Based,1.4,3,73.3,Internal + Semester,Medium
+INSTC2026008,A,4,Computer Networks,67.47,6.47,75.77,Visual,Project Based,1.4,3,73.3,Internal + Semester,Medium
+INSTC2026009,A,4,Mathematics,55.06,5.02,63.27,Visual,Lecture,2.93,3,83.27,Internal + Semester,Medium
+INSTC2026009,A,4,Data Structures,58.85,5.02,63.27,Visual,Lecture,2.93,3,83.27,Internal + Semester,Medium
+INSTC2026009,A,3,Database Management,61.9,5.02,63.27,Visual,Lecture,2.93,3,83.27,Internal + Semester,Medium
+INSTC2026009,A,5,Computer Networks,59.67,5.02,63.27,Visual,Lecture,2.93,3,83.27,Internal + Semester,Medium
+INSTC2026010,A,4,Mathematics,62.45,6.51,73.66,Auditory,Project Based,3.09,3,88.71,Internal + Semester,Medium
+INSTC2026010,A,5,Data Structures,55.84,6.51,73.66,Auditory,Project Based,3.09,3,88.71,Internal + Semester,Medium
+INSTC2026010,A,5,Database Management,62.99,6.51,73.66,Auditory,Project Based,3.09,3,88.71,Internal + Semester,Medium
+INSTC2026010,A,5,Computer Networks,63.2,6.51,73.66,Auditory,Project Based,3.09,3,88.71,Internal + Semester,Medium
+INSTC2026011,B,4,Mathematics,57.77,5.0,82.25,Auditory,Lecture,3.45,3,67.63,Internal + Semester,Medium
+INSTC2026011,B,4,Data Structures,65.76,5.0,82.25,Auditory,Lecture,3.45,3,67.63,Internal + Semester,Medium
+INSTC2026011,B,5,Database Management,54.95,5.0,82.25,Auditory,Lecture,3.45,3,67.63,Internal + Semester,Medium
+INSTC2026011,B,5,Computer Networks,71.17,5.0,82.25,Auditory,Lecture,3.45,3,67.63,Internal + Semester,Medium
+INSTC2026012,B,4,Mathematics,74.94,7.76,83.8,Kinesthetic,Demonstration,1.83,3,80.88,Internal + Semester,Medium
+INSTC2026012,B,5,Data Structures,67.38,7.76,83.8,Kinesthetic,Demonstration,1.83,3,80.88,Internal + Semester,Medium
+INSTC2026012,B,3,Database Management,74.05,7.76,83.8,Kinesthetic,Demonstration,1.83,3,80.88,Internal + Semester,Medium
+INSTC2026012,B,3,Computer Networks,77.78,7.76,83.8,Kinesthetic,Demonstration,1.83,3,80.88,Internal + Semester,High
+INSTC2026013,B,3,Mathematics,60.37,7.85,63.76,Auditory,Project Based,1.54,2,80.06,Internal + Semester,Medium
+INSTC2026013,B,3,Data Structures,65.28,7.85,63.76,Auditory,Project Based,1.54,2,80.06,Internal + Semester,Medium
+INSTC2026013,B,4,Database Management,48.43,7.85,63.76,Auditory,Project Based,1.54,2,80.06,Internal + Semester,Needs Support
+INSTC2026013,B,5,Computer Networks,52.99,7.85,63.76,Auditory,Project Based,1.54,2,80.06,Internal + Semester,Medium
+INSTC2026014,B,4,Mathematics,66.66,7.78,66.24,Reading/Writing,Demonstration,2.72,2,62.64,Internal + Semester,Medium
+INSTC2026014,B,4,Data Structures,69.25,7.78,66.24,Reading/Writing,Demonstration,2.72,2,62.64,Internal + Semester,Medium
+INSTC2026014,B,3,Database Management,66.37,7.78,66.24,Reading/Writing,Demonstration,2.72,2,62.64,Internal + Semester,Medium
+INSTC2026014,B,4,Computer Networks,66.55,7.78,66.24,Reading/Writing,Demonstration,2.72,2,62.64,Internal + Semester,Medium
+INSTC2026015,B,5,Mathematics,61.75,6.85,81.56,Auditory,Demonstration,2.8,1,54.24,Internal + Semester,Medium
+INSTC2026015,B,5,Data Structures,59.4,6.85,81.56,Auditory,Demonstration,2.8,1,54.24,Internal + Semester,Medium
+INSTC2026015,B,5,Database Management,54.16,6.85,81.56,Auditory,Demonstration,2.8,1,54.24,Internal + Semester,Medium
+INSTC2026015,B,4,Computer Networks,46.62,6.85,81.56,Auditory,Demonstration,2.8,1,54.24,Internal + Semester,Needs Support
+INSTC2026016,B,5,Mathematics,66.93,7.35,73.47,Kinesthetic,Project Based,4.16,4,66.62,Internal + Semester,Medium
+INSTC2026016,B,4,Data Structures,74.15,7.35,73.47,Kinesthetic,Project Based,4.16,4,66.62,Internal + Semester,Medium
+INSTC2026016,B,4,Database Management,62.06,7.35,73.47,Kinesthetic,Project Based,4.16,4,66.62,Internal + Semester,Medium
+INSTC2026016,B,4,Computer Networks,69.49,7.35,73.47,Kinesthetic,Project Based,4.16,4,66.62,Internal + Semester,Medium
+INSTC2026017,B,4,Mathematics,77.3,6.44,89.73,Visual,Lecture,2.15,3,78.97,Internal + Semester,High
+INSTC2026017,B,5,Data Structures,80.87,6.44,89.73,Visual,Lecture,2.15,3,78.97,Internal + Semester,High
+INSTC2026017,B,4,Database Management,58.79,6.44,89.73,Visual,Lecture,2.15,3,78.97,Internal + Semester,Medium
+INSTC2026017,B,3,Computer Networks,65.44,6.44,89.73,Visual,Lecture,2.15,3,78.97,Internal + Semester,Medium
+INSTC2026018,B,4,Mathematics,60.67,5.09,73.94,Auditory,Lecture,4.77,4,80.5,Internal + Semester,Medium
+INSTC2026018,B,4,Data Structures,50.05,5.09,73.94,Auditory,Lecture,4.77,4,80.5,Internal + Semester,Medium
+INSTC2026018,B,5,Database Management,54.7,5.09,73.94,Auditory,Lecture,4.77,4,80.5,Internal + Semester,Medium
+INSTC2026018,B,3,Computer Networks,51.31,5.09,73.94,Auditory,Lecture,4.77,4,80.5,Internal + Semester,Medium
+INSTC2026019,B,5,Mathematics,58.14,6.9,78.71,Auditory,Lecture,2.68,2,55.77,Internal + Semester,Medium
+INSTC2026019,B,5,Data Structures,63.49,6.9,78.71,Auditory,Lecture,2.68,2,55.77,Internal + Semester,Medium
+INSTC2026019,B,3,Database Management,63.93,6.9,78.71,Auditory,Lecture,2.68,2,55.77,Internal + Semester,Medium
+INSTC2026019,B,4,Computer Networks,50.26,6.9,78.71,Auditory,Lecture,2.68,2,55.77,Internal + Semester,Medium
+INSTC2026020,B,5,Mathematics,59.34,6.91,88.82,Kinesthetic,Demonstration,3.72,3,64.61,Internal + Semester,Medium
+INSTC2026020,B,4,Data Structures,65.22,6.91,88.82,Kinesthetic,Demonstration,3.72,3,64.61,Internal + Semester,Medium
+INSTC2026020,B,4,Database Management,67.4,6.91,88.82,Kinesthetic,Demonstration,3.72,3,64.61,Internal + Semester,Medium
+INSTC2026020,B,5,Computer Networks,57.92,6.91,88.82,Kinesthetic,Demonstration,3.72,3,64.61,Internal + Semester,Medium
+INSTC2026021,C,5,Mathematics,76.88,7.52,72.54,Visual,Flipped Classroom,3.28,3,69.41,Internal + Semester,High
+INSTC2026021,C,5,Data Structures,69.89,7.52,72.54,Visual,Flipped Classroom,3.28,3,69.41,Internal + Semester,Medium
+INSTC2026021,C,5,Database Management,54.39,7.52,72.54,Visual,Flipped Classroom,3.28,3,69.41,Internal + Semester,Medium
+INSTC2026021,C,5,Computer Networks,60.46,7.52,72.54,Visual,Flipped Classroom,3.28,3,69.41,Internal + Semester,Medium
+INSTC2026022,C,5,Mathematics,48.58,5.59,79.76,Reading/Writing,Lecture,3.16,3,87.63,Internal + Semester,Needs Support
+INSTC2026022,C,4,Data Structures,54.91,5.59,79.76,Reading/Writing,Lecture,3.16,3,87.63,Internal + Semester,Medium
+INSTC2026022,C,3,Database Management,52.44,5.59,79.76,Reading/Writing,Lecture,3.16,3,87.63,Internal + Semester,Medium
+INSTC2026022,C,5,Computer Networks,55.94,5.59,79.76,Reading/Writing,Lecture,3.16,3,87.63,Internal + Semester,Medium
+INSTC2026023,C,5,Mathematics,58.87,7.2,81.7,Auditory,Lecture,3.46,2,63.56,Internal + Semester,Medium
+INSTC2026023,C,3,Data Structures,56.13,7.2,81.7,Auditory,Lecture,3.46,2,63.56,Internal + Semester,Medium
+INSTC2026023,C,3,Database Management,62.25,7.2,81.7,Auditory,Lecture,3.46,2,63.56,Internal + Semester,Medium
+INSTC2026023,C,4,Computer Networks,66.69,7.2,81.7,Auditory,Lecture,3.46,2,63.56,Internal + Semester,Medium
+INSTC2026024,C,3,Mathematics,71.11,8.15,68.21,Visual,Lecture,2.79,3,80.2,Internal + Semester,Medium
+INSTC2026024,C,4,Data Structures,72.93,8.15,68.21,Visual,Lecture,2.79,3,80.2,Internal + Semester,Medium
+INSTC2026024,C,5,Database Management,58.01,8.15,68.21,Visual,Lecture,2.79,3,80.2,Internal + Semester,Medium
+INSTC2026024,C,4,Computer Networks,66.61,8.15,68.21,Visual,Lecture,2.79,3,80.2,Internal + Semester,Medium
+INSTC2026025,C,5,Mathematics,67.86,6.5,69.28,Auditory,Project Based,1.35,4,92.95,Internal + Semester,Medium
+INSTC2026025,C,4,Data Structures,57.54,6.5,69.28,Auditory,Project Based,1.35,4,92.95,Internal + Semester,Medium
+INSTC2026025,C,5,Database Management,72.81,6.5,69.28,Auditory,Project Based,1.35,4,92.95,Internal + Semester,Medium
+INSTC2026025,C,5,Computer Networks,65.53,6.5,69.28,Auditory,Project Based,1.35,4,92.95,Internal + Semester,Medium
+INSTC2026026,C,5,Mathematics,53.29,6.58,77.57,Visual,Lecture,2.16,3,82.37,Internal + Semester,Medium
+INSTC2026026,C,5,Data Structures,62.11,6.58,77.57,Visual,Lecture,2.16,3,82.37,Internal + Semester,Medium
+INSTC2026026,C,5,Database Management,54.34,6.58,77.57,Visual,Lecture,2.16,3,82.37,Internal + Semester,Medium
+INSTC2026026,C,4,Computer Networks,61.06,6.58,77.57,Visual,Lecture,2.16,3,82.37,Internal + Semester,Medium
+INSTC2026027,C,4,Mathematics,62.38,6.52,62.15,Auditory,Lecture,4.24,3,72.04,Internal + Semester,Medium
+INSTC2026027,C,5,Data Structures,60.08,6.52,62.15,Auditory,Lecture,4.24,3,72.04,Internal + Semester,Medium
+INSTC2026027,C,3,Database Management,64.75,6.52,62.15,Auditory,Lecture,4.24,3,72.04,Internal + Semester,Medium
+INSTC2026027,C,5,Computer Networks,67.23,6.52,62.15,Auditory,Lecture,4.24,3,72.04,Internal + Semester,Medium
+INSTC2026028,C,3,Mathematics,67.42,7.12,87.82,Kinesthetic,Demonstration,1.58,3,77.57,Internal + Semester,Medium
+INSTC2026028,C,4,Data Structures,62.3,7.12,87.82,Kinesthetic,Demonstration,1.58,3,77.57,Internal + Semester,Medium
+INSTC2026028,C,4,Database Management,63.82,7.12,87.82,Kinesthetic,Demonstration,1.58,3,77.57,Internal + Semester,Medium
+INSTC2026028,C,5,Computer Networks,62.84,7.12,87.82,Kinesthetic,Demonstration,1.58,3,77.57,Internal + Semester,Medium
+INSTC2026029,C,5,Mathematics,62.33,6.44,64.26,Auditory,Demonstration,2.97,3,94.95,Internal + Semester,Medium
+INSTC2026029,C,4,Data Structures,57.25,6.44,64.26,Auditory,Demonstration,2.97,3,94.95,Internal + Semester,Medium
+INSTC2026029,C,3,Database Management,55.72,6.44,64.26,Auditory,Demonstration,2.97,3,94.95,Internal + Semester,Medium
+INSTC2026029,C,4,Computer Networks,57.63,6.44,64.26,Auditory,Demonstration,2.97,3,94.95,Internal + Semester,Medium
+INSTC2026030,C,4,Mathematics,64.19,8.12,67.64,Kinesthetic,Project Based,3.32,4,84.35,Internal + Semester,Medium
+INSTC2026030,C,3,Data Structures,67.42,8.12,67.64,Kinesthetic,Project Based,3.32,4,84.35,Internal + Semester,Medium
+INSTC2026030,C,3,Database Management,67.72,8.12,67.64,Kinesthetic,Project Based,3.32,4,84.35,Internal + Semester,Medium
+INSTC2026030,C,3,Computer Networks,67.93,8.12,67.64,Kinesthetic,Project Based,3.32,4,84.35,Internal + Semester,Medium
